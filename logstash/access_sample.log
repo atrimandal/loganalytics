@@ -1,0 +1,5 @@
+9.17.185.236 - - [17/Mar/2020:08:30:49 -0400] "HEAD / HTTP/1.0" 301 -
+9.17.185.236 - - [17/Mar/2020:08:30:50 -0400] "HEAD / HTTP/1.0" 200 -
+9.17.185.237 - - [17/Mar/2020:08:30:49 -0400] "GET /finance/tools/salesperformance/fms/index.php HTTP/1.1" 200 14523
+9.17.185.237 - - [17/Mar/2020:08:30:50 -0400] "GET /finance/tools/salesperformance/fms/lib/bootstrap.min.js HTTP/1.1" 200 35602
+9.17.185.237 - - [17/Mar/2020:08:30:53 -0400] "GET /finance/tools/salesperformance/fms/%7B%7BfacesImageURL%7D%7D/%7B%7BloggedInUserEmail%7D%7D?s=40 HTTP/1.1" 404 1202
